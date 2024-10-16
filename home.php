@@ -20,7 +20,7 @@ continue.</p>
 linux/unix env there are 2 quick guides to get started:
 
 
-<ul>
+<ul>sadfsadfsadfsf
 	<li><a href="http://code.google.com/p/partuza/wiki/GettingStarted">http://code.google.com/p/partuza/wiki/GettingStarted</a>
 	</li>
 	<li><a
