@@ -18,7 +18,7 @@ continue.</p>
 </ul>
 <p>For people already comfortable with how to set up a website on a
 linux/unix env there are 2 quick guides to get started:
-
+sadf
 
 <ul>
 	<li><a href="http://code.google.com/p/partuza/wiki/GettingStarted">http://code.google.com/p/partuza/wiki/GettingStarted</a>
